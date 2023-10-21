@@ -1,4 +1,4 @@
-# Ollix Solution
+# Oliix Solution
 
 
 ## Backend
