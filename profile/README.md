@@ -3,15 +3,15 @@
 
 ## Backend
 
-  - Homologação: https://hom-ollix-api.azurewebsites.net/swagger/index.html
-  - Produção: https://ollix-api.azurewebsites.net/swagger/index.html
+  - Hml : https://hom-ollix-api.azurewebsites.net/swagger/index.html
+  - Production: https://ollix-api.azurewebsites.net/swagger/index.html
 
 ## Frontend
 
-  - Produção: https://ec8-ollix.github.io/Ollix-Frontend/
+  - Production: https://ec8-ollix.github.io/Ollix-Frontend/
 
 
 
-## Gestão
+## Management
 
   - Jira: https://ollix.atlassian.net/jira/software/projects/OLI/boards/1
